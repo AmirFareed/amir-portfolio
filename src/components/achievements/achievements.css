@@ -1,0 +1,57 @@
+.achievements__container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+.achievements__item {
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.achievements__item:hover {
+    border-color: var(--color-primary-variant);
+    background: transparent;
+}
+
+.achievements__item-image {
+    border-radius: 1.5rem;
+    overflow: hidden;
+    height: 30%;
+}
+
+.achievements__item h3 {
+    margin: 2rem 0;
+}
+
+.achievements__item p {
+    margin: 0 0 1.2rem 0;
+    font-size: 0.9rem;
+}
+
+.achievements__item-cta {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.achievements__item-content {
+    height: 40%;
+}
+
+@media screen and (max-width: 1024px){
+    .achievements__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+}
+  
+@media screen and (max-width: 600px){
+    .achievements__container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
