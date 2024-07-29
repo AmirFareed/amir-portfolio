@@ -30,7 +30,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: "The Basuri Resturant",
+      title: "The Basuri Restaurant",
       img: IMG2,
       description: "A website for restaurant reservations. The website is designed using Wix for a user-friendly experience and offers seamless functionality.",
       technologies: "Wix.com",

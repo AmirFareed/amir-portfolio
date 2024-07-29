@@ -18,7 +18,7 @@ const Footer = () => {
       </ul>
       <div className="footer__socials">
       <a href="https://www.linkedin.com/in/amir2fareed/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
-      <a href="https://github.com/AamirFareed" target="_blank" rel="noreferrer" ><FaGithub /></a>
+      <a href="https://github.com/AmirFareed?tab=repositories" target="_blank" rel="noreferrer" ><FaGithub /></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Amir 2024. All rights reserved.</small>
