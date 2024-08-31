@@ -15,8 +15,8 @@ const Portfolio = () => {
       description:
         "This module encompass a wide array of written works, from scholarly articles and technical reports to essays, thesis, and research papers.",
       technologies: "Academic | Technical | Essay | Thesis | Research Papers",
-      link: "https://drive.google.com/drive/folders/1Nd-kmcYLSgzpU_KAhSFXUAcLMfUVdS6q?usp=sharing",
-      github: "https://drive.google.com/drive/folders/1Nd-kmcYLSgzpU_KAhSFXUAcLMfUVdS6q?usp=sharing",
+      link: "https://drive.google.com/drive/u/1/folders/1Nd-kmcYLSgzpU_KAhSFXUAcLMfUVdS6q",
+      github: "https://drive.google.com/drive/u/1/folders/1Nd-kmcYLSgzpU_KAhSFXUAcLMfUVdS6q",
     },
     {
       id: 2,
@@ -25,8 +25,8 @@ const Portfolio = () => {
       description:
         "A portfolio website is a huge interactive platform to present various information for people.",
       technologies: "Html | CSS | Javascript | React Js",
-      link: "https://techbytescholar.netlify.app",
-      github: "https://github.com/TechByteScholar/TechByteScholar_portfolio",
+      link: "https://techbytescholar",
+      github: "https://github.com/",
     },
     {
       id: 3,

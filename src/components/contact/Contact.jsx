@@ -45,8 +45,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>cs001af@kust.edu.pk</h5>
-            <a href="mailto:cs001af@kust.edu.pk">Send a message</a>
+            <h5>amir2fareed@gmail.com</h5>
+            <a href="mailto:amir2fareed@gmail.com">Send a message</a>
           </article>
           <article className="contact__option">
             <FaWhatsapp className="contact__option-icon" />
