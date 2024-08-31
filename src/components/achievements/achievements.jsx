@@ -3,7 +3,6 @@ import "./achievements.css"; // Ensure your CSS matches the styling of your port
 
 // Import images for achievements
 import ACH1 from "../../assets/achievement1.jpg";
-import ACH2 from "../../assets/achievement2.jpg";
 import ACH3 from "../../assets/achievement3.jpg";
 import ACH4 from "../../assets/achievement4.png";
 import ACH5 from "../../assets/achievement5.png";
